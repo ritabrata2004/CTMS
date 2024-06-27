@@ -1,0 +1,1197 @@
+[{
+  "_id": {
+    "$oid": "6613025544fd8868419a62f4"
+  },
+  "teamName": "RCB",
+  "coach": "Rahul",
+  "captain": "Captain",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 1,
+      "playerName": "Cristiano Ronaldo",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62f5"
+      }
+    },
+    {
+      "id": 2,
+      "playerName": "Sergio Ramos",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62f6"
+      }
+    },
+    {
+      "id": 3,
+      "playerName": "Luka Modric",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62f7"
+      }
+    },
+    {
+      "id": 4,
+      "playerName": "Thibaut Courtois",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62f8"
+      }
+    },
+    {
+      "id": 5,
+      "playerName": "Krish Gell",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62f9"
+      }
+    },
+    {
+      "id": 6,
+      "playerName": "Virat Kohli",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62fa"
+      }
+    },
+    {
+      "id": 7,
+      "playerName": "Maxwell",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62fb"
+      }
+    },
+    {
+      "id": 8,
+      "playerName": "Rohit Sharma",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62fc"
+      }
+    },
+    {
+      "id": 9,
+      "playerName": "Bumrah",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62fd"
+      }
+    },
+    {
+      "id": 10,
+      "playerName": "Pandiya",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a62fe"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613025544fd8868419a62ff"
+  },
+  "teamName": "CSK",
+  "coach": "Stephen",
+  "captain": "Dhoni",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 11,
+      "playerName": "Sachin Tendulkar",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6300"
+      }
+    },
+    {
+      "id": 12,
+      "playerName": "Zaheer Khan",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6301"
+      }
+    },
+    {
+      "id": 13,
+      "playerName": "MS Dhoni",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6302"
+      }
+    },
+    {
+      "id": 14,
+      "playerName": "Yuvraj Singh",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6303"
+      }
+    },
+    {
+      "id": 15,
+      "playerName": "Harbhajan Singh",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6304"
+      }
+    },
+    {
+      "id": 16,
+      "playerName": "Ravindra Jadeja",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6305"
+      }
+    },
+    {
+      "id": 17,
+      "playerName": "Shane Watson",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6306"
+      }
+    },
+    {
+      "id": 18,
+      "playerName": "Suresh Raina",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6307"
+      }
+    },
+    {
+      "id": 19,
+      "playerName": "Jasprit Bumrah",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6308"
+      }
+    },
+    {
+      "id": 20,
+      "playerName": "Deepak Chahar",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6309"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613025544fd8868419a630a"
+  },
+  "teamName": "KKR",
+  "coach": "Brendon",
+  "captain": "Andre Russell",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 21,
+      "playerName": "Chris Gayle",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a630b"
+      }
+    },
+    {
+      "id": 22,
+      "playerName": "Sunil Narine",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a630c"
+      }
+    },
+    {
+      "id": 23,
+      "playerName": "Dinesh Karthik",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a630d"
+      }
+    },
+    {
+      "id": 24,
+      "playerName": "Andre Russell",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a630e"
+      }
+    },
+    {
+      "id": 25,
+      "playerName": "Pat Cummins",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a630f"
+      }
+    },
+    {
+      "id": 26,
+      "playerName": "Shubman Gill",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6310"
+      }
+    },
+    {
+      "id": 27,
+      "playerName": "Eoin Morgan",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6311"
+      }
+    },
+    {
+      "id": 28,
+      "playerName": "Kuldeep Yadav",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6312"
+      }
+    },
+    {
+      "id": 29,
+      "playerName": "Lockie Ferguson",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6313"
+      }
+    },
+    {
+      "id": 30,
+      "playerName": "Nitish Rana",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6314"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613025544fd8868419a632b"
+  },
+  "teamName": "KXIP",
+  "coach": "Anil",
+  "captain": "Glenn Maxwell",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 51,
+      "playerName": "KL Rahul",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a632c"
+      }
+    },
+    {
+      "id": 52,
+      "playerName": "Chris Gayle",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a632d"
+      }
+    },
+    {
+      "id": 53,
+      "playerName": "Nicholas Pooran",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a632e"
+      }
+    },
+    {
+      "id": 54,
+      "playerName": "Mohammed Shami",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a632f"
+      }
+    },
+    {
+      "id": 55,
+      "playerName": "Ravichandran Ashwin",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6330"
+      }
+    },
+    {
+      "id": 56,
+      "playerName": "Mayank Agarwal",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6331"
+      }
+    },
+    {
+      "id": 57,
+      "playerName": "Glenn Maxwell",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6332"
+      }
+    },
+    {
+      "id": 58,
+      "playerName": "Sheldon Cottrell",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6333"
+      }
+    },
+    {
+      "id": 59,
+      "playerName": "Jimmy Neesham",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6334"
+      }
+    },
+    {
+      "id": 60,
+      "playerName": "Murugan Ashwin",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6335"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613025544fd8868419a6336"
+  },
+  "teamName": "RR",
+  "coach": "Kumar",
+  "captain": "Jofra Archer",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 61,
+      "playerName": "Sanju Samson",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6337"
+      }
+    },
+    {
+      "id": 62,
+      "playerName": "Ben Stokes",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6338"
+      }
+    },
+    {
+      "id": 63,
+      "playerName": "Jos Buttler",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6339"
+      }
+    },
+    {
+      "id": 64,
+      "playerName": "Steve Smith",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a633a"
+      }
+    },
+    {
+      "id": 65,
+      "playerName": "Rahul Tewatia",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a633b"
+      }
+    },
+    {
+      "id": 66,
+      "playerName": "Jofra Archer",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a633c"
+      }
+    },
+    {
+      "id": 67,
+      "playerName": "Jaydev Unadkat",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a633d"
+      }
+    },
+    {
+      "id": 68,
+      "playerName": "Shreyas Gopal",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a633e"
+      }
+    },
+    {
+      "id": 69,
+      "playerName": "Robin Uthappa",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a633f"
+      }
+    },
+    {
+      "id": 70,
+      "playerName": "Andrew Tye",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6340"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613025544fd8868419a634c"
+  },
+  "teamName": "DC",
+  "coach": "Ricky",
+  "captain": "Anrich Nortje",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 81,
+      "playerName": "Shreyas Iyer",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a634d"
+      }
+    },
+    {
+      "id": 82,
+      "playerName": "Rishabh Pant",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a634e"
+      }
+    },
+    {
+      "id": 83,
+      "playerName": "Kagiso Rabada",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a634f"
+      }
+    },
+    {
+      "id": 84,
+      "playerName": "Axar Patel",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6350"
+      }
+    },
+    {
+      "id": 85,
+      "playerName": "Prithvi Shaw",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6351"
+      }
+    },
+    {
+      "id": 86,
+      "playerName": "Shikhar Dhawan",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6352"
+      }
+    },
+    {
+      "id": 87,
+      "playerName": "Ishant Sharma",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6353"
+      }
+    },
+    {
+      "id": 88,
+      "playerName": "Ravichandran Ashwin",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6354"
+      }
+    },
+    {
+      "id": 89,
+      "playerName": "Ajinkya Rahane",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6355"
+      }
+    },
+    {
+      "id": 90,
+      "playerName": "Anrich Nortje",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6356"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613025544fd8868419a6357"
+  },
+  "teamName": "KKR",
+  "coach": "Brendon",
+  "captain": "Eoin Morgan",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 91,
+      "playerName": "Andre Russell",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6358"
+      }
+    },
+    {
+      "id": 92,
+      "playerName": "Shubman Gill",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6359"
+      }
+    },
+    {
+      "id": 93,
+      "playerName": "Dinesh Karthik",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a635a"
+      }
+    },
+    {
+      "id": 94,
+      "playerName": "Pat Cummins",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a635b"
+      }
+    },
+    {
+      "id": 95,
+      "playerName": "Sunil Narine",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a635c"
+      }
+    },
+    {
+      "id": 96,
+      "playerName": "Lockie Ferguson",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a635d"
+      }
+    },
+    {
+      "id": 97,
+      "playerName": "Eoin Morgan",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a635e"
+      }
+    },
+    {
+      "id": 98,
+      "playerName": "Nitish Rana",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a635f"
+      }
+    },
+    {
+      "id": 99,
+      "playerName": "Kuldeep Yadav",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6360"
+      }
+    },
+    {
+      "id": 100,
+      "playerName": "Varun Chakravarthy",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6361"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613025544fd8868419a6341"
+  },
+  "teamName": "PBKS",
+  "coach": "Andy",
+  "captain": "Mohammed Shami",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 71,
+      "playerName": "Mayank Agarwal",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6342"
+      }
+    },
+    {
+      "id": 72,
+      "playerName": "KL Rahul",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6343"
+      }
+    },
+    {
+      "id": 73,
+      "playerName": "Chris Gayle",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6344"
+      }
+    },
+    {
+      "id": 74,
+      "playerName": "Nicholas Pooran",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6345"
+      }
+    },
+    {
+      "id": 75,
+      "playerName": "Mohammed Shami",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6346"
+      }
+    },
+    {
+      "id": 76,
+      "playerName": "Ravi Bishnoi",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6347"
+      }
+    },
+    {
+      "id": 77,
+      "playerName": "Arshdeep Singh",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6348"
+      }
+    },
+    {
+      "id": 78,
+      "playerName": "Deepak Hooda",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6349"
+      }
+    },
+    {
+      "id": 79,
+      "playerName": "Shahrukh Khan",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a634a"
+      }
+    },
+    {
+      "id": 80,
+      "playerName": "Moises Henriques",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a634b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613025544fd8868419a6362"
+  },
+  "teamName": "SRH",
+  "coach": "Trevor",
+  "captain": "Kane Williamson",
+  "MP": 0,
+  "points": 0,
+  "players": [
+    {
+      "id": 101,
+      "playerName": "Kane Williamson",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6363"
+      }
+    },
+    {
+      "id": 102,
+      "playerName": "Rashid Khan",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6364"
+      }
+    },
+    {
+      "id": 103,
+      "playerName": "Jonny Bairstow",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6365"
+      }
+    },
+    {
+      "id": 104,
+      "playerName": "Jason Holder",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6366"
+      }
+    },
+    {
+      "id": 105,
+      "playerName": "David Warner",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6367"
+      }
+    },
+    {
+      "id": 106,
+      "playerName": "Bhuvneshwar Kumar",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6368"
+      }
+    },
+    {
+      "id": 107,
+      "playerName": "Mohammad Nabi",
+      "position": "All Rounder",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a6369"
+      }
+    },
+    {
+      "id": 108,
+      "playerName": "Manish Pandey",
+      "position": "Batsman",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a636a"
+      }
+    },
+    {
+      "id": 109,
+      "playerName": "T Natarajan",
+      "position": "Bowler",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a636b"
+      }
+    },
+    {
+      "id": 110,
+      "playerName": "Wriddhiman Saha",
+      "position": "Wicket Keeper",
+      "score": 0,
+      "wickets": 0,
+      "strikeRate": 0,
+      "economy": 0,
+      "_id": {
+        "$oid": "6613025544fd8868419a636c"
+      }
+    }
+  ],
+  "__v": 0
+}]
